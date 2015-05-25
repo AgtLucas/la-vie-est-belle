@@ -1,2 +1,3 @@
-# la-vie-est-belle
+# La vie est belle!
+
 Je sais!
